@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Smart Eyes Saga!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Esse primeiro post vai servir pra brincar um pouco com **Markdown** e _github_.
+O link da ideia desse post é:
+[Smart Eyes o Serviço](https://www.youtube.com/watch?v=AdrWUHt5RtI&t=213s)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
