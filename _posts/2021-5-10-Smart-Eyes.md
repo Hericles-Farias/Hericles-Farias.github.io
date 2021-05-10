@@ -8,4 +8,4 @@ O link da ideia desse post é: [Smart Eyes o Serviço](https://www.youtube.com/w
 
 Aqui tem o logo inicial! 
 
-![SM](https://github.com/Hericles-Farias/Hericles-Farias.github.io/blob/master/images/sm.PNG "Smart Eyes TM")
+![SM](https://github.com/Hericles-Farias/Hericles-Farias.github.io/blob/master/images/sm.png "Smart Eyes TM")
