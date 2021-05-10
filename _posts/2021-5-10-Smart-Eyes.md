@@ -9,3 +9,5 @@ O link da ideia desse post é:
 Aqui tem o logo inicial!
 ![_config.yml]({{ site.baseurl }}/images/sm.png)
 
+Inline-style: 
+![SM](https://github.com/Hericles-Farias/Hericles-Farias.github.io/blob/master/images/sm.PNG "Smart Eyes TM")
